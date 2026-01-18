@@ -9,10 +9,10 @@ Key Objectives:
 - Enhance **safety and operational efficiency** by identifying key fault indicators
 ---
 ## Dataset Information
-**File name:** `engine_failure_dataset.csv`
-**Size:** 146 KB
-**Shape:** 1001 Rows × 11 Columns
-**Source:** [Kaggle Dataset – Engine Failure Detection](https://www.kaggle.com/datasets/ziya07/engine-failure-detection-dataset)
+- **File name:** `engine_failure_dataset.csv`
+- **Size:** 146 KB
+- **Shape:** 1001 Rows × 11 Columns
+- **Source:** [Kaggle Dataset – Engine Failure Detection](https://www.kaggle.com/datasets/ziya07/engine-failure-detection-dataset)
 
 ### Dataset Description
 The dataset simulates sensor readings from various types of engines to detect failures in mechanical systems, especially in automotive applications.
@@ -46,7 +46,7 @@ It captures data on **engine performance, fault conditions, and operational mode
 - RPM values ranged widely, reflecting varying operational loads
 - Fuel efficiency showed moderate variability
 - Torque and Power Output reflected expected engine performance behavior
----
+
 ### Analytical Techniques
 #### Correlation Analysis
 - Calculated correlation coefficients between numerical variables
@@ -109,7 +109,7 @@ Observations:
 - Idle mode showed the highest occurrence of Fault Condition 0
 - Cruising mode dominated by Fault Condition 2
 - Heavy Load mode exhibited fewer extreme faults
----
+
 ## Analytical Poster Overview
 This project includes a research-style analytical poster summarizing the full EDA and insights in a concise visual format.
 ### Poster Highlights:
@@ -140,7 +140,7 @@ The analysis provided valuable insights into the key factors affecting **engine 
 - Cruising mode is the most stable operational state
 - Idle and Heavy Load modes require closer monitoring due to higher variability
 - Visualization techniques (heatmaps, boxplots, dashboards) significantly improved interpretability
----
+
 **Project Impact**
 - Supports predictive maintenance planning
 - Enables targeted operational strategies
@@ -152,14 +152,14 @@ Overall, this project sets the stage for:
 - Enhancing **engine reliability**
 ---
 ## Challenges & Limitations
--Dataset may not capture all influencing factors (e.g., environmental conditions)
--Limited sample size may affect generalizability
--Requires further validation with real-world data
+- Dataset may not capture all influencing factors (e.g., environmental conditions)
+- Limited sample size may affect generalizability
+- Requires further validation with real-world data
 
 ---
 ## Author
-**Author:** Jameela Al-Smadi
-**Contact:** [jameelasmadi98@gmail.com](mailto:jameelasmadi98@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/jameela-smadi/]
+- **Author:** Jameela Al-Smadi
+- **Contact:** [jameelasmadi98@gmail.com](mailto:jameelasmadi98@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/jameela-smadi/]
 
 ---
